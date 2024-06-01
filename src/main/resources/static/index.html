@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Upload XML File</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+    <style>
+        #productForm, .button {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload XML File</h1>
+    <form id="uploadForm" method="post" enctype="multipart/form-data" action="/upload">
+        <input type="file" name="file" accept=".xml">
+        <button type="submit">Upload</button>
+    </form>
+
+    <p id="message"></p>
+    <a href="/products" class="button">See all products</a>
+
+    <form id="productForm">
+        <input type="text" id="productName" name="productName" placeholder="Enter product name">
+        <button type="submit">Find product</button>
+    </form>
+</body>
+</html>

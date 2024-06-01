@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Products>
+    <Product id="1">
+        <Name>apple</Name>
+        <Category>fruit</Category>
+        <PartNumberNR>2303-E1A-G-M-W209B-VM</PartNumberNR>
+        <CompanyName>FruitsAll</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="2">
+        <Name>orange</Name>
+        <Category>fruit</Category>
+        <PartNumberNR>5603-J1A-G-M-W982F-PO</PartNumberNR>
+        <CompanyName>FruitsAll</CompanyName>
+        <Active>false</Active>
+    </Product>
+    <Product id="3">
+        <Name>glass</Name>
+        <Category>dish</Category>
+        <PartNumberNR>9999-E7R-Q-M-K287B-YH</PartNumberNR>
+        <CompanyName>HomeHome</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="4">
+        <Name>banana</Name>
+        <Category>fruit</Category>
+        <PartNumberNR>1111-B2B-A-M-W123X-TR</PartNumberNR>
+        <CompanyName>FruitsAll</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="5">
+        <Name>chair</Name>
+        <Category>furniture</Category>
+        <PartNumberNR>5555-C1D-G-M-X892H-PL</PartNumberNR>
+        <CompanyName>HomeHome</CompanyName>
+        <Active>false</Active>
+    </Product>
+    <Product id="6">
+        <Name>milk</Name>
+        <Category>dairy</Category>
+        <PartNumberNR>7777-M1L-D-M-Y237K-ZN</PartNumberNR>
+        <CompanyName>DairyWorld</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="7">
+        <Name>table</Name>
+        <Category>furniture</Category>
+        <PartNumberNR>8888-T2L-G-M-Z542J-XW</PartNumberNR>
+        <CompanyName>HomeHome</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="8">
+        <Name>yogurt</Name>
+        <Category>dairy</Category>
+        <PartNumberNR>4444-Y2G-D-M-K947Q-VB</PartNumberNR>
+        <CompanyName>DairyWorld</CompanyName>
+        <Active>false</Active>
+    </Product>
+    <Product id="9">
+        <Name>carrot</Name>
+        <Category>vegetable</Category>
+        <PartNumberNR>3333-C4T-V-M-P876A-QW</PartNumberNR>
+        <CompanyName>VeggieLand</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="10">
+        <Name>couch</Name>
+        <Category>furniture</Category>
+        <PartNumberNR>2222-C3H-G-M-N321L-UV</PartNumberNR>
+        <CompanyName>HomeHome</CompanyName>
+        <Active>false</Active>
+    </Product>
+</Products>
